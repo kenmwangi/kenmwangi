@@ -1,0 +1,36 @@
+.nav {
+  /* min-height: 3rem; */
+  /* background: #000; */
+  /* color: #fff; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 10;
+
+  border-bottom: 1px solid #eaeaea;
+}
+.nav ul {
+  display: flex;
+  flex-grow: 1;
+}
+.nav ul li {
+  list-style: none;
+
+  /* margin-right: 12px; */
+}
+.nav ul li a {
+  opacity: 0.7;
+}
+.nav ul li a:hover {
+  opacity: 1;
+}
+/* .logo {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 2rem;
+} */
