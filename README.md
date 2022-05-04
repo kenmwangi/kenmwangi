@@ -15,7 +15,6 @@ I'm a full stack developer, Researcher and Data enthusiast
 [![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)](https://www.python.org/)
 
 
-
 ## 🔗 Let's Interact in Following Platforms
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kenmwangi.com/)
