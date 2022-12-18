@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ken Mwangi
 ==================================================================================================================================
 
-Full-stack Developer
+Full-stack Developer | Technical Writer | Open-source Contributor
 --------------------
+Currently I am Full stack Developer student at ALX Africa
 
-I have been coding in HTML, CSS, and JavaScript for the last 1 year. I have started a Python learning journey following #100DaysofCode challenge
 
-* 🌍  I'm based in Nakuru, Kenya
+* 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [https://www.kenmwangi.com](http://www.kenmwangi.com)
 * ✉️  You can contact me at [kenmwangi071@gmail.com](mailto:kenmwangi071@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Reactjs, Nextjs, Nodejs and VanillaJs
-* ⚡  Fan of Chelsea FC
+
 
 <a href="https://www.twitter.com/ken_cipher" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ken_cipher?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
