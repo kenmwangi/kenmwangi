@@ -10,7 +10,7 @@ Currently I am Full stack Developer student at ALX Africa
 * 🖥️  See my portfolio at [https://www.kenmwangi.com](http://www.kenmwangi.com)
 * ✉️  You can contact me at [kenmwangi071@gmail.com](mailto:kenmwangi071@gmail.com)
 * 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Reactjs, Nextjs, Nodejs and VanillaJs
+* 🤝  I'm open to collaborating on Typescript, Reactjs, Nextjs, Nodejs and Python
 
 
 <a href="https://www.twitter.com/ken_cipher" target="_blank" rel="noreferrer"><img
