@@ -9,7 +9,7 @@ Currently I am Full stack Developer student at ALX Africa
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [https://www.kenmwangi.com](http://www.kenmwangi.com)
 * ✉️  You can contact me at [kenmwangi071@gmail.com](mailto:kenmwangi071@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  Currently, I'm learning Python
 * 🤝  I'm open to collaborating on Typescript, Reactjs, Nextjs, Nodejs and Python
 
 
